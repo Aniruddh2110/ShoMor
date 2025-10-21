@@ -1,0 +1,214 @@
+<resources>
+    <string name="app_name">ShoMor</string>
+
+
+    //beaches
+
+    <string name="miramar">The word Miramar is derived from Portuguese word,
+         which means viewing the sea.
+         The beach is famous for its golden soft sand and palm trees.
+         It is said that the sand of the beach looks brighter in moonlight.
+         The two-km long beach is popular and locals and
+         foreigners visit the beach in large numbers.</string>
+
+
+    <string name="baga">Baga is located at the north end of the contiguous
+         beach stretch that starts from Sinquerim, Candolim,
+         leads to Calangute, and then to Baga. The beach contains rows of
+         shacks and fishing boats, and at high tide the beach is narrow.
+</string>
+
+
+    <string name="candolim">This is a peaceful beach of Goa that is housed
+            within 15 km radius of Panjim City. The back of the beach boasts
+            dunes that are covered with vast scrub stretches is one of the
+            major attractions of this beach. It houses a peaceful and calm ambiance.
+</string>
+
+
+    <string name="vagator">Vagator Beach has black rock cliffs overlooking the water.
+            The beach was rated one of cleanest in Goa.
+            Vagator Beach is split into three
+            main beaches by a seaside headland
+         which holds the car park and many stalls
+            selling trinkets, clothes, soft drinks and snacks.
+</string>
+
+
+    <string name="butterfly">One of the secluded beaches of Goa,
+         Butterly Beach is located to the south of Palolem in Goa’s Cancona region.
+         It is also known as the Honeymoon Beach and is in the shape
+         of a butterfly and hides in a tiny cove encircled by dense trees.
+         While direct transport does not ply here, if you travel by land,
+         be ready for a forest hike.
+</string>
+
+    <string name="palolem">Palolem Beach is situated in Canacona in southern Goa,
+         India. The beach attracts many international tourists,
+         mainly during the winter season between November and March.
+         It is considered to be one of the regions most beautiful beaches.
+
+</string>
+
+
+    <string name="majorda">Majorda Beach is situated in South Goa,
+         it geographically features between Utorda Beach and Betalbatim Beach.
+         The lovely golden sand beach is flanked by swaying palms trees
+         and can be your perfect haunt for seeking
+         some tranquillity from the city life.
+</string>
+
+    <string name="betalbatim">Betalbatim Beach,
+         in South Goa, is a stunning expanse of golden sand.
+         Between Colva Beach and Majorda Beach,
+         this small beach area is well maintained.
+         Betalbatim Beach, in contrast to other Goa beaches,
+         is mostly undisturbed by beachgoers.
+
+</string>
+
+
+    <string name="keri">With white sands stretching over a patch
+         of 2 km with rocky outcrops and many trees, Querim Beach,
+         also known as Keri Beach is a quiet spot in North Goa.
+         It is located at the mouth of the Terehkol River where
+         it joins the Arabian Sea. The river inlet is one of the
+         most striking features of the beach.
+
+</string>
+    <string name="chapora">Chapora is a coastal village at Chapora
+         River estuary lying alongside a beach stretch in North Goa
+         that is around 10 km. from Mapusa, a City in Northern Goa.
+         It is close to Chapora Fort, an old Adilshahi fort.
+         Chapora is also close to a trawler-fishing jetty.
+
+</string>
+
+    //waterfalls
+
+    <string name="dudhsagar">Dudhsagar Falls ( lit. Sea of Milk) is a four-tiered waterfall on the Mandovi River in the Indian state of Goa. It is 60 km from Panaji by road and is located on the Belgaum–Vasco Da Gama rail route about 46 km east of Madgaon and 80 km south of Belgaum.
+</string>
+
+    <string name="harvalem">The Arvalem waterfall, with a height of just 50m and a width of 7m, is a popular tourist spot and picnic location in Goa, especially during the monsoon season, when the falls are a gushing torrent hurtling madly into the lake below.
+</string>
+
+    <string name="tambdisurla">Tambdi Surla Waterfalls is Located inside the Bhagwan Mahavir National Park, It is a 12th century Shaivaite temple of Lord Mahadev. Due to its remote location, people often miss the opportunity to visit the temple.
+</string>
+
+    <string name="netravali">Netravali Waterfall is a popular tourist attraction in Sanguem taluka in Goa, India. The waterfall is situated in the Netravali wildlife sanctuary and is surrounded by dense forest and beautiful greenery. It is a popular spot for picnics and swimming, and the water is known for its crystal clear and cool temperature.
+</string>
+
+    <string name="bamanbudo">Bamanbudo Waterfall is beautifull fall located in Gaodongrem village on Canacona-Naturlim Road, South Goa. It flows across the road so reach is very easy.
+</string>
+
+    <string name="kuskem">The Kuskem waterfall is located in the Canacona taluka in South Goa. It is situated in idyllic Kuskem village at about 20 km from the Cotigao wildlife sanctuary off NH 17.
+</string>
+
+    <string name="kesarval">Kesarval Falls is one of the tourist places in Goa which you should try to visit, especially if you happen to visit it during the monsoon. Although the waterfall itself is not as wide and high as Dudhsagar or Arvalem, it is an extremely beautiful sight to come across.
+</string>
+
+    <string name="mangeli">Mangeli waterfall at Dodamarg, Maharastra is approximately 38 Km from Panjim. Mangeli is a Village in Dodamarg Taluka. While driving you will notice the direction boards alongside roads that guide you. On your way to the Mangeli waterfall you will see many very beautiful scenic spots, where one can make a short halts.</string>
+
+    <string name="amboli">Amboli Falls, Situated in the Sahyadri Hills of the western part of India, Amboli is situated at the height of 690 metres above the sea level and is counted as one of the eco spots of the world since it is home to unusual species of flora and fauna.
+</string>
+
+    //wildlife
+
+    <string name="bondla">The Bondla wildlife sanctuary is about 50 Kilometers from Panaji and 38 Kilometers from Margao and 20 Kilometers east of Ponda. It is more of a jungle resort with tourist cottages available on site run by the Forest Department. The common animals that inhabit the sanctuary are the Gaur and the Sambhar deer.
+</string>
+
+    <string name="mollem">Spread over 240 sq km in the Western Ghats, Mollem National Park is located in Sanguem taluk in Goa close to the border with Karnataka. The reserve also has several temples dating back to the Kadamba Dynasty. The national park is located near the town of Mollem, 60 km south east from Panaji, the capital city of Goa.
+</string>
+
+    <string name="netravaliwf">Netravali Wildlife Sanctuary, located in Sanguem Taluka, spreads over an area of 211.05 km. On eastern side it is bounded by Cotigao Wildlife Sanctuary and on northern side by Bhagwan Mahaveer Wildlife Sanctuary. The forest is predominantly moist deciduous type with patches of semi-evergreen forest in the valleys.
+</string>
+
+    <string name="drsalimali">On the western tip of the island of Chorao along River Mandovi, mangrove swamps cover this bird-watchers paradise aptly named after India best-known ornithologist. This is Goa only bird sanctuary, 1.8 Sq Km in area. A variety of local and migratory birds can be found on this island.
+</string>
+
+    <string name="madei">Madei Wildlife Sanctuary is the Northern most and one of the recently declared Wildlife sanctuary of the Goa. It spreads over an area of 208 km and derives its name from Madei river which flows across this Sanctuary.
+</string>
+
+    <string name="bhagwan">Bhagwan Mahaveer Sanctuary and Mollem National Park is a 240 square kilometres (93 sq mi) protected area located in the Western Ghats of West India, in Dharbandora taluk, Goa State, along the eastern border with Karnataka. The area is situated near the town of Molem, 57 kilometres (35 mi) east of Panaji, the state capital of Goa.
+</string>
+
+    <string name="islandreserve">This unique biodiversity hot-spot off the South Goa coast is a collaborative effort comprised of local fishermen and conservationists. Their aim: to preserve the ancient geological formations and protect the local flora and fauna.
+</string>
+
+    <string name="mystic">A conservation project by an ordinary couple attracts a lot of visitors inspired by their efforts to transform a barren hillslope into a forest. The Butterfly is used only as a catalyst . Breeding butterflies need endemic plants , clean air and humus rich soil .
+</string>
+
+    <string name="cotigao">Cotigao is a peaceful and scenic park that makes a pleasant day trip from Palolem beach, 12-km northwest. The wardens at the reserve small Interpretative Centre will show one how to get to a 25m-high treetop watchtower, overlooking a waterhole that attracts a handful of animals around dawn and dusk.
+</string>
+
+    //heritage
+
+    <string name="reisfort">Standing tall and proud overseeing and protecting the taluka of Bardez, across the river from the capital city of Panaji, this fort was one of the first bastions of the Portuguese rulers against enemy invasion.
+</string>
+
+    <string name="cabo">The 1760s, the Portuguese gained control of Cabo de Rama after the Raja of Soonda surrendered his territory to them in return for protection against Hyder Ali of Mysore. Prior to that, the fort had regularly switched hands between Hindu and Muslim monarchs.
+</string>
+
+    <string name="fontainhas">Goa Fontainhas, is a unique cultural gem, noted for its history and beauty. This treasure trove of history and culture is also known as the Old Latin Quarter of Goa. Today, Fontainhas speaks volumes about Goa rich colonial past.
+</string>
+
+    <string name="pandava">The Arvalem Caves are popularly known as Pandava Caves. According to the history, the five Pandavas of the epic Mahabharata sought refuge in these caves during their exile. The Arvalem Caves are very much patterned in the Buddhist cave style. The architecture of the caves is simple yet appealing.
+</string>
+
+    <string name="clocktower">A heritage landmark, this clock tower, which was built in 1938, suffered neglect over the years and several heritage lovers did complain about the crumbling structure in the past. This tower is located on a municipal building in the heart of Vasco city. The Vasco municipal market built in 1938 is an example of Art Deco style of architecture.
+</string>
+
+    <string name="viceroys">This archway, known as the Viceroy Arch, was erected by Vasco da Gama grandson, Francisco da Gama, who became viceroy in 1597. On the side facing the river, the arch (which was restored in 1954 following a collapse) is ornamented with the deer emblem on Vasco da Gama coat of arms.
+</string>
+
+    <string name="menezes">Menezes Braganza House, a Portuguese-style mansion that was built in the 17th century and is located in Chandor Village in South Goa. This historic mansion is huge and is filled with beautiful antique furniture, art and historic artifacts.
+</string>
+
+    <string name="figueiredo">Built in 1590, the Figueiredo Mansion pre-dates the Taj Mahal by decades. It was designed by Jesuit priests from nearby Rachol Seminary to accommodate a newly-converted Goan family - the Podiars, who took the name Figueiredo.
+</string>
+
+    <string name="bigfoot">Set in eco-friendly surroundings, this mock up village traces 100 years of Goa lifestyle and heritage. A giant size footprint, Big Foot, the only designer dance floor in Goa, is used as a venue for the promotion of dance, music and traditional culture.
+</string>
+
+    //religious
+
+    <string name="birla">The temple is located at the campus of BITS Pilani Goa at Sancoale. It is built out of white makrana marble. It is built in a Nagara style, and has five shikharas (temple towers). The main deities worshipped here are the couple Radha Krishna.
+</string>
+
+    <string name="baptist">The church of St. John the Baptist was originally built near the shore and has been shifted to its present location on top of a hill known as Monte Benaulim in the year 1956. The church has one of the best constructed and most beautiful altars with a whitewash that charms everyone to visit the place once.
+</string>
+
+
+    <string name="jama">The Jama Masjid is situated at Sanguem in Goa which is about 26 kms from Margao. The mosque is a well known Muslim religious place of worship in Goa which is known to have been completely renovated in 1959 AD.
+</string>
+
+
+    <string name="damodar">The Sri Damodar temple is situated at Zambaulim, about 22 kms from Margao and 5 km. from Quepem, in Goa. It is a serene place to worship Sri Damodar who is an incarnation of Lord Siva. The other deities in the temple are Sri Ramnath, Sri Mahesha, Sri Chamundeshwari, and Sri Mahakali.
+</string>
+
+
+    <string name="alex">St. Alex Church, Calangute , stands impressively among the palm branches. Its Frontier facing the rising sun and the back to the Arabian Sea. A visitor to our village coming by the Chogam Road after crossing the Boa Viagem hill cannot miss the majestic appearance of the Church.
+</string>
+
+
+    <string name="safa">Safa Mosque or Safa Shahouri Mosque is a mosque located at Ponda within Goa, India. It is a sixteenth century Islamic Monument. The mosque has a complex consisting of garden and fountains. The terracotta tile roof accommodates a rectangular prayer hall.
+</string>
+
+
+    <string name="mahalasa">If any place can rightly claim to be the first place where the beloved Goddess Shri Mahalasa Narayani came to Goa, then it is Varenyapur, now known as Verna, in the southern part of the scenic coastal state of Goa.
+</string>
+
+
+    <string name="holy">Holy Family Church, Marcela, Goa is called Sagrada Familia Igreja em Marcela, Goa in Portuguese. Earlier Our Marcela church was a chapel which was built in 1630. It was raised to a parish church on May 20, 1831, which followed with the Construction of a new and more spacious church building on March 8, 1998.
+</string>
+
+
+    <string name="shantadurga">More than 450 years old, the Shantadurga temple is situated in the foothills of Kavalem village. Goddess Durga was said to act as a mediator between Lord Shiva and Lord Vishnus fierce war, and was given the name Shanta, meaning peace.
+</string>
+
+
+    <string name="spirit">Margao whitewashed main church (1675) remains in use as a parish church and is finely decorated inside. The impressive reredos (ornamental screen) is dedicated to the Virgin Mary, rising from ground level to the high ceiling, made more distinguished by the gilded and carved archway that stands in front of it.
+</string>
+
+
+</resources>

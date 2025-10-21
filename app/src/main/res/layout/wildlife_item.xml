@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginStart="12dp"
+    android:layout_marginEnd="12dp"
+    android:layout_marginVertical="10dp"
+    android:layout_marginHorizontal="10dp"
+    app:cardCornerRadius="20dp"
+    app:cardElevation="8dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/wildlifeImage"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/wildlife"
+            app:srcCompat="@drawable/pic1" />
+
+        <TextView
+            android:id="@+id/wildlifeName"
+            android:layout_width="120dp"
+            android:layout_height="30dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="25dp"
+            android:layout_toEndOf="@id/wildlifeImage"
+            android:fontFamily="@font/poppins_light"
+            android:text="Name"
+            android:textColor="@color/orange"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="27dp"
+            android:layout_height="50dp"
+            android:layout_alignTop="@+id/wildlifeName"
+            android:layout_alignBottom="@+id/wildlifeName"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="60dp"
+            android:layout_marginTop="1dp"
+            android:layout_marginEnd="79dp"
+            android:layout_marginBottom="5dp"
+            android:layout_toEndOf="@+id/wildlifeName"
+            app:srcCompat="@drawable/star2" />
+
+        <TextView
+            android:id="@+id/wildliferating"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/imageView5"
+            android:layout_alignBottom="@+id/imageView5"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="-3dp"
+            android:layout_marginEnd="46dp"
+            android:layout_marginBottom="-2dp"
+            android:fontFamily="@font/poppins_light"
+            android:text="4.0"
+            android:textColor="@color/black"
+            android:textSize="20sp" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
